@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Mehra</h1>
 <h3 align="center">"Full Stack Web Developer | Building Efficient Solutions with React, Node.js, and MySQL"</h3>
 
-- 🔭 I’m currently working on [HotelBite]([https://github.com/Mehra-Jatin/HotelBite])
+- 🔭 I’m currently working on [HotelBite](https://github.com/Mehra-Jatin/HotelBite)
 
 - 🌱 I’m currently learning **Exploring Redux, TypeScript, and Redis for Scalable Web Solutions**
 
