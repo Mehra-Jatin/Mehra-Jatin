@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jatinmehra578@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/139mU2zvB4k81JDOqJQrw4VHit-D_BE0_/view?usp=sharing](https://drive.google.com/file/d/139mU2zvB4k81JDOqJQrw4VHit-D_BE0_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/139mU2zvB4k81JDOqJQrw4VHit-D_BE0_/view?usp=sharing](https://drive.google.com/file/d/1X8iYqbAS-PexFZgluK1wlFNfwZMJNqeJ/view?usp=sharing)
 
 - ⚡ Fun fact **I have a knack for turning late-night coding sessions into successful projects!**
 
