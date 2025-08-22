@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Exploring Redux, TypeScript, and Redis for Scalable Web Solutions**
 
-- 💬 Ask me about **My Current Projects (SocialApp,HotelBite)**
+- 💬 Ask me about **My Current Projects (vetConnect,SocialApp,HotelBite)**
 
 - 📫 How to reach me **jatinmehra578@gmail.com**
 
